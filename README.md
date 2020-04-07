@@ -1,6 +1,6 @@
 # Climbing_logbook
-# 06.04.2020
-# Jaromir Panas
+## 06.04.2020
+### Jaromir Panas
 
 A small project with regression analysis of climbers performance.
 
